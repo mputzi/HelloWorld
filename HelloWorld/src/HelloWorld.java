@@ -8,6 +8,7 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.print("Hello World!");
 		System.out.print("Blubb!");
+		System.out.print("Was lange wärt wird endlich gut!");
 	}
 
 }
