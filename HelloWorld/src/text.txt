@@ -1,4 +1,4 @@
 Dies ist eine Textdatei.
-Ja, wei� ich !
+Ja, weiß ich !
 
 Du musst die Kodierung noch umstellen.
